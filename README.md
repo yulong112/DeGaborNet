@@ -1,7 +1,8 @@
 DeGaborNet, a decoupled Gabor convolutional network with bio-inspired design, high efficiency, light weight and robustness advantages, IEEE TCSVT, 2026
 ==
 [Long Yu](https://faculty.scut.edu.cn/zdhkxygc/yl31_en/main.htm), [Haoze Huo](https://orcid.org/0009-0000-8431-4127), [Jia Chen](https://ieeexplore.ieee.org/author/37087092939), [Zhaozhao Zeng](https://xplorestaging.ieee.org/author/37088750424), [Jun Li](https://grzy.cug.edu.cn/lijun1/en/index.htm), [Lin He](https://ieeexplore.ieee.org/author/37588872700), and [Antonio Plaza](https://www2.umbc.edu/rssipl/people/aplaza/).
-***
+
+---
 
 Code for the paper: [DeGaborNet: Decoupled Gabor Network for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/11667704), IEEE Transactions on Circuits and Systems for Video Technology, 2026.
 
@@ -20,12 +21,12 @@ Recent advances in convolutional neural networks (CNNs) have propelled deep lear
 <div align=center><img src="/Figures/channel-sharing.png" width="90%" height="90%"></div>
 Fig. 2. Channel-shared parameter mechanism of De-GCM.
 
+
+### The main function of this project
+
+	Use Demo_DeGaborNet.py
+
 ---
-
-### **The main function of this project**
-
-	Use `Demo_DeGaborNet.py`
-
 
 Citation
 --
