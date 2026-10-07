@@ -37,7 +37,7 @@ If this work is helpful to you, please cite our paper as follows:
 L. Yu et al., "DeGaborNet: Decoupled Gabor Network for Hyperspectral Image Classification," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2026.3727779.
 
 --
-BibTeX:
+## BibTeX:
 
 ```
 @ARTICLE{11667704,
