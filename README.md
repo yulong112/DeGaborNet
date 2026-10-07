@@ -27,18 +27,17 @@ Fig. 2. Channel-shared parameter mechanism of De-GCM.
 
 	Use `Demo_DeGaborNet.py`
 
----
-### Citation
 
+### Citation
+---
 The paper is available now at https://ieeexplore.ieee.org/document/11667704
 
 If this work is helpful to you, please cite our paper as follows:
 
 L. Yu et al., "DeGaborNet: Decoupled Gabor Network for Hyperspectral Image Classification," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2026.3727779.
 
---
 #### BibTeX:
-
+---
 ```
 @ARTICLE{11667704,
   author={Yu, Long and Huo, Haoze and Chen, Jia and Zeng, Zhaozhao and Li, Jun and He, Lin and Plaza, Antonio},
